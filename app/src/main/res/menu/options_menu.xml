@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/createFile"
+        android:title="@string/create_csv" />
+    <item
+        android:id="@+id/clearResults"
+        android:title="@string/clear_results" />
+    <item
+        android:id="@+id/deleteLastResult"
+        android:title="@string/delete_last_result" />
+    <item
+        android:id="@+id/editAccessPoints"
+        android:title="@string/edit_access_points" />
+</menu>

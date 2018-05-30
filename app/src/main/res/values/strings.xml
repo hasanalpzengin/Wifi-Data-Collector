@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">WifiDataCollector</string>
+    <string name="scanButton">Scan</string>
+    <string name="enable_gps">Please Enable Your Device\'s GPS</string>
+    <string name="enable_wifi">Please Enable Your Device\'s WIFI</string>
+    <string name="unable_gps">Unable to get information from GPS</string>
+    <string name="coordinate_x">X:</string>
+    <string name="coordinate_y">Y:</string>
+    <string name="coordinate_z">Z:</string>
+    <string name="create_csv">Create CSV File</string>
+    <string name="clear_results">Clear Results</string>
+    <string name="delete_last_result">Delete Last Result</string>
+    <string name="morethan5scan">You can\'t scan same area more than 5 times.</string>
+    <string name="add">Add</string>
+    <string name="existBSSID">This BSSID already exist in list</string>
+    <string name="addedBSSID">BSSID added successfuly</string>
+    <string name="deletedBSSID">BSSID deleted successfuly</string>
+    <string name="edit_access_points">Edit Accesspoints</string>
+    <string name="init_bssid">Please Init BSSID to list</string>
+    <string name="lastRecord">Last Record: </string>
+    <string name="none">none</string>
+</resources>
